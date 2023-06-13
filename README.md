@@ -1,4 +1,4 @@
-# TITTLE
+# TITLE
 Microcontroller Device Control System
 
 # THEORY
